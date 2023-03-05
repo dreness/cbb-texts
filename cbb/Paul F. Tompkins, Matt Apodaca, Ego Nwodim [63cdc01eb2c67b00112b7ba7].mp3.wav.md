@@ -1,3 +1,9 @@
+---
+layout: page
+title: Paul F. Tompkins, Matt Apodaca, Ego Nwodim [63cdc01eb2c67b00112b7ba7].mp3.wav
+category: cbb 
+---
+
 ♪♪♪ Slap my ass and call me Sally, my favorite maps are Rand McNally.
 
 Welcome to Comedy Bang Bang.

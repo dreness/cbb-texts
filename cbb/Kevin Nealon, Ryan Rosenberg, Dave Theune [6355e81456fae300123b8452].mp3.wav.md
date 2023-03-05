@@ -1,3 +1,9 @@
+---
+layout: page
+title: Kevin Nealon, Ryan Rosenberg, Dave Theune [6355e81456fae300123b8452].mp3.wav
+category: cbb 
+---
+
 ♪♪♪ My Dark Knight of the Soul was a darker night for my toilet bowl.
 
 Welcome to Comedy Bang Bang.

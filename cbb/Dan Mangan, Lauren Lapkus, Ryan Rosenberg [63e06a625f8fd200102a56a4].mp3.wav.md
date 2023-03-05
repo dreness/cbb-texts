@@ -1,3 +1,9 @@
+---
+layout: page
+title: Dan Mangan, Lauren Lapkus, Ryan Rosenberg [63e06a625f8fd200102a56a4].mp3.wav
+category: cbb 
+---
+
 I'm as in day a late and a zend dollar short welcome to comedy bang bang uh... redewatts thank you so much for the for the uh...
 
 theme song but uh... unlike last week I do not want to talk to you so uh... we'll see you later thanks buddy pack your shit and get the hell outta here uh... but get the hell in here to the rest of you welcome to comedy bang bang for another week uh... first week of febby debbie boy the months are really going one at a time aren't they first you have the first one then the second one and now uh...

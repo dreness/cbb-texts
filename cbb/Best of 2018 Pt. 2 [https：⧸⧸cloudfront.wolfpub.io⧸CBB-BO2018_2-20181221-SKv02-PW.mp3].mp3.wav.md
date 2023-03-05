@@ -1,3 +1,9 @@
+---
+layout: page
+title: Best of 2018 Pt. 2 [https：⧸⧸cloudfront.wolfpub.io⧸CBB-BO2018_2-20181221-SKv02-PW.mp3].mp3.wav
+category: cbb 
+---
+
 ♫♫♫♫ Get your meat hooks off the comic books and put your salami inside of my mommy welcome to Comedy Bang Bang Yep You know, at first I thought that sounded rude You were petrified That was a clip that we played on the last episode But then, it's nice!
 
 Yeah, it is nice, thanks to Call Waiting for Godot For that catchphrase submission and welcome to Comedy Bang Bang Best of 2018 Part 2 Part 2 Part 2 That is a big audio dynamite reference Bad Yes Welcome to Comedy Bang Bang Best of 18 Thank you Best of 18 I imagine I put a little apostrophe before 18 Comedy Bang Bang is put out 18 episodes These are the best 18 These are the best 18 Ha ha ha ha Let's say hello to everyone My name is Scott Ockerman, welcome to the show This is Part 2, of course Scott, you've introduced me I'm gonna, I'll get there No, tell him away Tell him away Okay, right now I was gonna give you a nice big introduction I was gonna talk about a lot of your friends Okay, okay, okay You want me to say some nice things about you?

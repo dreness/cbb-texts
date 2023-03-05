@@ -1,3 +1,9 @@
+---
+layout: page
+title: Bonus： Live from Vancouver Comedy Fest [https：⧸⧸cloudfront.wolfpub.io⧸CBB-B1-20160527-Vancouver_BarryThunePFTGarfunkeloatsWatts-CSv01-PW.mp3].mp3.wav
+category: cbb 
+---
+
 ♪♪ ♪♪ ♪♪ ♪♪ ♪♪ Yes, and welcome to Comedy Death Radio from Vancouver!
 
 Yeah!

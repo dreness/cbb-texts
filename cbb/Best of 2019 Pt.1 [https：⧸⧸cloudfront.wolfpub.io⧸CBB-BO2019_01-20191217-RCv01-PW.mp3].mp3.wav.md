@@ -1,3 +1,9 @@
+---
+layout: page
+title: Best of 2019 Pt.1 [https：⧸⧸cloudfront.wolfpub.io⧸CBB-BO2019_01-20191217-RCv01-PW.mp3].mp3.wav
+category: cbb 
+---
+
 ♪♪♪ The pencil is sharpest just before the dawn my willpower is weakest knelt before a fawn.
 
 Welcome to Comedy Bang Bang, best of 2019 Part 1.

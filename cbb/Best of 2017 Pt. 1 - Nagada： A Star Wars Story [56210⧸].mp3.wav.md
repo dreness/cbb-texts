@@ -1,3 +1,9 @@
+---
+layout: page
+title: Best of 2017 Pt. 1 - Nagada： A Star Wars Story [56210⧸].mp3.wav
+category: cbb 
+---
+
 ♪♪♪ Pop the bubbly and play the booblay. The holiday season is upon us. Welcome to Comedy Bang Bang.
 
 That's right. The holiday season is upon us. Thank you so much to Jizzysnizzy. Oh boy.

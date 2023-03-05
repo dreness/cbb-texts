@@ -1,3 +1,9 @@
+---
+layout: page
+title: Best of 2018 Pt. 1 [https：⧸⧸cloudfront.wolfpub.io⧸CBB-BestOF2018-BO2018_1-SKv01-PW.mp3].mp3.wav
+category: cbb 
+---
+
 ♪♪♪ Reese's Pieces for All My Nieces and a Curfew or Two from an FU Get to Bed Kid, welcome to Company Bang Bang.
 
 Mmm, that one doesn't work.

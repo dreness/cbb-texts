@@ -1,3 +1,9 @@
+---
+layout: page
+title: Rachel Bloom, James Mannion, Matt Apodaca [632d026e0b0d520016e9d7d4].mp3.wav
+category: cbb 
+---
+
 ♪♪♪♪♪ Rose is a red, corn is yellow, your mama looks like Danny Trejo.
 
 Welcome to Comedy Bang Bang.

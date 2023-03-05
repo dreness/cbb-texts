@@ -1,3 +1,9 @@
+---
+layout: page
+title: Reggie Watts, Vic Michaelis, Dave Theune [63d737dd83621e00115ce5d4].mp3.wav
+category: cbb 
+---
+
 I'm a garbage man, you're a garbage lady, let's smash our trash and make a dumpster baby welcome to comedy bang bang. Thank you to Mirkat 218 and thank you Reggie Watts for the wonderful singing the song and we'll see you next week. Actually, do you want to stick around today and talk on Mike or do you want to start plugging that stuff? But do you want me to stay?
 
 Yeah, do you mind? I mean, our main guest didn't show up today.

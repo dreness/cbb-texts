@@ -1,3 +1,9 @@
+---
+layout: page
+title: Kurt Braunohler, Mike Hanford, Jacob Wysocki [635f3ef0176c6c001230cca4].mp3.wav
+category: cbb 
+---
+
 ♪♪♪ Harry Houdini in a burlap bikini was in my dreams again last night.
 
 Welcome to Comedy Bang Bang.

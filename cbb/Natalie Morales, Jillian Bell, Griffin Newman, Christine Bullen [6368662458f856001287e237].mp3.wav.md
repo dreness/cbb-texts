@@ -1,3 +1,9 @@
+---
+layout: page
+title: Natalie Morales, Jillian Bell, Griffin Newman, Christine Bullen [6368662458f856001287e237].mp3.wav
+category: cbb 
+---
+
 ♪♪♪ Diddle, diddle, dumpling. My whole world is crumbling. My pants are on and I'm in the bed.
 
 Welcome to Comedy Bang Bang. Thank you to, oh gosh, I closed my phone and didn't even see who did.

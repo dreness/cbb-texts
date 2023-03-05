@@ -1,3 +1,9 @@
+---
+layout: page
+title: Dan Wilson, Paul Rust, Charlie McCrackin, Christine Bullen [633aa1413853610012886130].mp3.wav
+category: cbb 
+---
+
 ♪♪♪ You can paint a whole zebra with half a can of paint.
 
 Welcome to Comedy Bang Bang.

@@ -1,3 +1,9 @@
+---
+layout: page
+title: Kyle Bornheimer, Dan Lippert, Erin Keif [63438629081c4a001228ea9c].mp3.wav
+category: cbb 
+---
+
 ♪♪♪ There are two wolves inside you stop eating wolves!
 
 Welcome to Comedy Bang Bang. Curious.

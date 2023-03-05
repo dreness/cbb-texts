@@ -1,3 +1,9 @@
+---
+layout: page
+title: Best of 2015 Pt. 2 [37333⧸].mp3.wav
+category: cbb 
+---
+
 ♪♪♪ Your pink, panted, tush makes my shy, chubby blush. Welcome to Comedy Bang Bang.
 
 Ha, our guest does not like it. Thank you to the Voblax catchphrase all star.

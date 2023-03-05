@@ -1,3 +1,9 @@
+---
+layout: page
+title: 2012 Holiday Spectacular [15615⧸21075].mp3.wav
+category: cbb 
+---
+
 Just hear that jing jing jingling ha just kidding no hey it's comedy bang bang it's our big holiday extravaganza you know how good and crazy these things can get we have guests galore presence for you to unwrap underneath your podcast tree all of that and more all on today's ♫♫♫♫ Peace on Earth and Goodwill hunting on Blu Ray!
 
 Welcome to Comedy Bang Bang!

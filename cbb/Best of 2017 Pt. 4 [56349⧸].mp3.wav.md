@@ -1,3 +1,9 @@
+---
+layout: page
+title: Best of 2017 Pt. 4 [56349⧸].mp3.wav
+category: cbb 
+---
+
 ♪♪ Buffalo Buffalo Buffalo wings for fun.
 
 Ingest, of course, welcome to Comedy Bang Bang.

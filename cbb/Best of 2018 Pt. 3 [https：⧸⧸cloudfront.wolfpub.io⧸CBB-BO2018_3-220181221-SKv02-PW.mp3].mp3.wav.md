@@ -1,3 +1,9 @@
+---
+layout: page
+title: Best of 2018 Pt. 3 [https：⧸⧸cloudfront.wolfpub.io⧸CBB-BO2018_3-220181221-SKv02-PW.mp3].mp3.wav
+category: cbb 
+---
+
 ♪♪♪ You put the lime in the coconut, you put the coconut in the trash, you go to the freakin' doctor like a normal person, Kyle, welcome to Comedy Bang Bang.
 
 Thank you to Colfax-McLivernet for that catheteration.

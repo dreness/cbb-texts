@@ -1,3 +1,9 @@
+---
+layout: page
+title: R U Talkin' R.E.M. RE： ME？ [57080⧸].mp3.wav
+category: cbb 
+---
+
 From chronic to collapse, town and into now respectively that is, this is R.U. talking REM-ME.
 
 The comprehensive and encyclopedic compendium of all things REM, this is good.

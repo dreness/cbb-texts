@@ -1,3 +1,9 @@
+---
+layout: page
+title: Comedy Bang! Bang! Presents： We Have To Stop Talking TMNT on CBB [https：⧸⧸cloudfront.wolfpub.io⧸CBB-667.5-20200805-TMNTBonus-KBv02-PW.mp3].mp3.wav
+category: cbb 
+---
+
 ♪♪♪ Hey everyone, Scott Ocherman here and welcome to a very special episode of Comedy Bang Bang.
 
 Let me give you a little bit of background about what you're about to hear.

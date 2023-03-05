@@ -1,3 +1,9 @@
+---
+layout: page
+title: Best of 2016 Pt. 3 [49850⧸].mp3.wav
+category: cbb 
+---
+
 ♪♪ You've heard of Asimov's Three Laws of Robotics, but I bet you never heard his fourth law, which was mostly just how to clean their robotic sex holes.
 
 Welcome to Comedy Bang Bang.

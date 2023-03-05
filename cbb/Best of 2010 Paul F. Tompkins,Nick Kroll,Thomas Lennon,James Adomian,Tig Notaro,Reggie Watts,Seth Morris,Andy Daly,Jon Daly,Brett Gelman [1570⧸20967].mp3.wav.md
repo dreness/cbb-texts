@@ -1,3 +1,9 @@
+---
+layout: page
+title: Best of 2010 Paul F. Tompkins,Nick Kroll,Thomas Lennon,James Adomian,Tig Notaro,Reggie Watts,Seth Morris,Andy Daly,Jon Daly,Brett Gelman [1570⧸20967].mp3.wav
+category: cbb 
+---
+
 ♪ What's up hot dog? The retirement!
 
 Hello, I'm Scott Ockermann, your host.

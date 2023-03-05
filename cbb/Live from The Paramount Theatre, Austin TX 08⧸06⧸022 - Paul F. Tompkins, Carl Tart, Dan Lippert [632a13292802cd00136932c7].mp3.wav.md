@@ -1,3 +1,9 @@
+---
+layout: page
+title: Live from The Paramount Theatre, Austin TX 08⧸06⧸022 - Paul F. Tompkins, Carl Tart, Dan Lippert [632a13292802cd00136932c7].mp3.wav
+category: cbb 
+---
+
 Hey everyone, Scott Ockermann here and you are about to hear a very special live episode of Comedy Bang Bang recorded last month at the Paramount Theater in Austin, Texas.
 
 This is one of the 23 shows that we did in August on our 13th anniversary, Oh No Tour, and we wanted to give you a little taste of what the tour was like because if you are into this, every single one of our 23 live episodes as well as every other live episode are available at comedybangbangworld.com or cbbworld.com.

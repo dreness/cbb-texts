@@ -1,3 +1,9 @@
+---
+layout: page
+title: Best of 2018 Pt. 4 [https：⧸⧸cloudfront.wolfpub.io⧸CBB-BO2018_4-220181221-SKv02-PW.mp3].mp3.wav
+category: cbb 
+---
+
 ♪♪ Out of the frying pan into the fire, your method of cooking leaves much to desire.
 
 Welcome to Comedy Bang Bang.

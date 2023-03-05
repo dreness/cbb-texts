@@ -1,3 +1,9 @@
+---
+layout: page
+title: Best of 2016 Pt. 1 [49704⧸].mp3.wav
+category: cbb 
+---
+
 ♪♪♪ When you hear your family, but once you're in the parking lot, it's acceptable to kiss with tongue.
 
 Welcome to Comedy Bang Bang.

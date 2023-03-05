@@ -1,3 +1,9 @@
+---
+layout: page
+title: Sharon Horgan, Paul F Tompkins, Casey Feigh [634c695700db0d00112f9212].mp3.wav
+category: cbb 
+---
+
 ♪♪♪ If robots had robots, we'd all have sore hands Welcome to Comedy Bang Bang.
 
 Thank you to David Mamet's Gunt for that catchphrase submission.

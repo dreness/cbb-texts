@@ -1,3 +1,9 @@
+---
+layout: page
+title: Kristian Bruun, Paul F. Tompkins, Matt Gourley, Lisa Gilroy [638d3c5e9b85dd0011ea5b79].mp3.wav
+category: cbb 
+---
+
 ♪♪♪ By the power vested in me by the great state of Minnesota, I pronounce you married, you may now eat ass.
 
 Welcome to Comedy Bang Bang.

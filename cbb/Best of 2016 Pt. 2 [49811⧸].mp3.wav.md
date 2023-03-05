@@ -1,3 +1,9 @@
+---
+layout: page
+title: Best of 2016 Pt. 2 [49811⧸].mp3.wav
+category: cbb 
+---
+
 ♫♫♫♫ Better buttered and slightly salted than slightly buttered and salting the wounds from your failed romantic adventures and popcorn saleswomen.
 
 Welcome to Comedy Bang Bang.

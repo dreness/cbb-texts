@@ -1,3 +1,9 @@
+---
+layout: page
+title: 2022 Holiday Spectacular (Paul F. Tompkins, Shaun Diston, Jon Gabrus, Lily Sullivan, Carl Tart, Jessica McKenna, Will Hines, Vic Michaelis, Lisa Gilroy, Gil Ozeri) [63954e0fc2685300110ba70e].mp3.wav
+category: cbb 
+---
+
 ♪♪♪ Uh-oh, here comes Trouble, shave my butt cheeks on the double. Welcome to Comedy Bang Bang.
 
 Thank you to Nells for Smells for that catchphrase submission.

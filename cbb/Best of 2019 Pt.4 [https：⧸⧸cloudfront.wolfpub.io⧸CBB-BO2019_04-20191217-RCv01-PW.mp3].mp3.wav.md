@@ -1,3 +1,9 @@
+---
+layout: page
+title: Best of 2019 Pt.4 [https：⧸⧸cloudfront.wolfpub.io⧸CBB-BO2019_04-20191217-RCv01-PW.mp3].mp3.wav
+category: cbb 
+---
+
 ♪♪♪ The Hamburgler, Bergl Burgers, while the Grimace grabbed your grapes, Ronald McDonald watched it all while Mayor McCheese filmed the tape. Welcome to Comedy Bang Bang! That's a longin'! That's okay. It's a... you know, it's a fun, thematic thing with the McDonald Land characters. I think you'll change your mind once you hear who submitted it. Uh-oh. Thank you to Shitty Butthole for that catchphrase submission. Yeah. Come on. I know. Almost didn't pick it because of that, but I did, and there it is.
 
 Welcome to Comedy Bang Bang! This is the best of Comedy Bang Bang 2019, part 404! If it ain't, then... Don't fix it.

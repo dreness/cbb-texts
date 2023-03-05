@@ -1,3 +1,9 @@
+---
+layout: page
+title: Max Silvestri, Lily Sullivan, Tim Baltz [637a82377620b80011833788].mp3.wav
+category: cbb 
+---
+
 ♪♪♪ The Sidewinder sleeps tonight unlike other nights when the Sidewinder just does Molly and gets fucking nuts. Welcome to Comedy Bang Bang.
 
 ♪♪♪ Yes, welcome to Comedy Bang Bang. We are back if you can believe it.

@@ -1,3 +1,9 @@
+---
+layout: page
+title: Best of 2017 Pt. 3 [56279⧸].mp3.wav
+category: cbb 
+---
+
 ♪♪♪ Bought the farm chilled the beans, took a rain check and shot the breeze, welcome to Comedy Bang Bang, and thank you to Mondo Mudbud for that catchphrase submission, and may I say...
 
 Happy New Year!

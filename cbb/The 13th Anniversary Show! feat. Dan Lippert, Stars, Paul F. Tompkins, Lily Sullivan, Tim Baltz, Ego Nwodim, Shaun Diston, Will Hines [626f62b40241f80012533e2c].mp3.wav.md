@@ -1,3 +1,9 @@
+---
+layout: page
+title: The 13th Anniversary Show! feat. Dan Lippert, Stars, Paul F. Tompkins, Lily Sullivan, Tim Baltz, Ego Nwodim, Shaun Diston, Will Hines [626f62b40241f80012533e2c].mp3.wav
+category: cbb 
+---
+
 ♪♪♪ Nothing steams my beans more than dad's ass and damn jeans.
 
 Welcome to Comedy Bang Bang.

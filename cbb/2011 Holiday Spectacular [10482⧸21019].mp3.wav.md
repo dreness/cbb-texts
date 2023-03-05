@@ -1,3 +1,9 @@
+---
+layout: page
+title: 2011 Holiday Spectacular [10482⧸21019].mp3.wav
+category: cbb 
+---
+
 Well, it's that time of year again. Here we are at the end of the year, the Comedy Bang Bang Holiday Special.
 
 We have a certain guest with his phone corner here.
