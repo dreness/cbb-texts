@@ -1,6 +1,6 @@
 # just-the-docs-template
 
-[![Deploy Jekyll site to Pages](https://github.com/dreness/cbb-texts/actions/workflows/jekyll.yml/badge.svg)](https://github.com/dreness/cbb-texts/actions/workflows/jekyll.yml)
+[![Deploy Jekyll site to Pages](https://github.com/dreness/cbb-texts/actions/workflows/pages.yml/badge.svg)](https://github.com/dreness/cbb-texts/actions/workflows/pages.yml)
 
 This is a *bare-minimum* template to create a [Jekyll] site that:
 
