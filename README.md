@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Nick Kroll, John Gemberling, Gil Ozeri [637139679c03bc0011bcbc59].mp3.wav
-category: cbb 
+title: README.md
+category: cbb
 ---
 
 # just-the-docs-template
