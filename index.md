@@ -1,6 +1,6 @@
 ---
 title: Comedy Bang Bang Texts
-layout: Home
+layout: home
 ---
 
 ## Comedy Bang Bang Texts
