@@ -15,7 +15,7 @@ The transcriptions were created using the fantastic [whisper.cpp](https://github
 
 whisper.cpp can produce transcriptions in various file formats (vtt, srt, text, csv), however none of those are quite right for Github Pages, which wants markdown. Some decisions have to be made regarding how to format the markdown text, since a single line break doesn't affect the layout of normal body text. I tried a few differnet things and for now settled on one sentence per line, which in markdown means one sentence every *two* lines.
 
-To do the conversion from vtt to markdown, I used [vtt2txt](https://github.com/TruthfulTechnology/pm-vtt2txt) with two small modifications:
+To do the conversion from vtt to markdown, I used [vtt2txt](https://github.com/TruthfulTechnology/pm-vtt2txt) with two small [modifications](https://github.com/TruthfulTechnology/pm-vtt2txt/issues/1):
 
 * add two line breaks instead of one between each sentence
 * remove duplicate sentences
