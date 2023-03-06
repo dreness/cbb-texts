@@ -1,10 +1,4 @@
----
-layout: page
-title: README.md
-category: cbb
----
-
-# just-the-docs-template
+## just-the-docs-template
 
 [![Deploy Jekyll site to Pages](https://github.com/dreness/cbb-texts/actions/workflows/pages.yml/badge.svg)](https://github.com/dreness/cbb-texts/actions/workflows/pages.yml)
 

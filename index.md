@@ -1,6 +1,6 @@
 ---
 title: Comedy Bang Bang Texts
-layout: home
+layout: default
 ---
 
 ## Comedy Bang Bang Texts
@@ -20,7 +20,7 @@ To do the conversion from vtt to markdown, I used [vtt2txt](https://github.com/T
 * add two line breaks instead of one between each sentence
 * remove duplicate sentences
 
-### Future Possibilities...
+### Future Possibilities
 
 * Much better frontmatter metadata to hold tags for things like
   * date / time
